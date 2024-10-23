@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-![alt text myimg](https://github.com/tapaspal9/homepage/assets/27273692/f7795ac4-b7a4-4df7-8751-b0e080a3d84c){: height="240px" width="190px" style="float:left; padding-right:20px" }
+![alt text myimg](https://github.com/user-attachments/assets/099a93b8-7db0-4abb-bec8-f325521f58d0){: height="240px" width="190px" style="float:left; padding-right:20px" }
 
 
 
