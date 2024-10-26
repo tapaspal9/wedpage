@@ -12,11 +12,11 @@ social_links:
    facebook: tapas.pal.144
 
 minima:
-  skin: dark
+  skin: air
 
 # Build settings
 remote_theme: jekyll/minima
-theme: jekyll/leap-day  
+#theme: jekyll/leap-day  
 #theme: minima
 #remote_theme: jekyll-theme-slate
 #  skin: dark
