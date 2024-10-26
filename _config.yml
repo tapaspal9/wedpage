@@ -16,7 +16,7 @@ minima:
 
 # Build settings
 remote_theme: jekyll/minima
-#theme: jekyll/leap-day  
+theme: jekyll/leap-day  
 #theme: minima
 #remote_theme: jekyll-theme-slate
 #  skin: dark
